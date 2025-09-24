@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Converter App.");
-
+        System.out.println("Version 1.0.");
         System.out.print("Please enter kilos: ");
         double kgs = scanner.nextDouble();
 
